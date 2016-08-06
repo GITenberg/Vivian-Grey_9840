@@ -1,0 +1,48 @@
+_repo: Vivian-Grey_9840
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 9840/9840-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Disraeli, Benjamin, Earl of Beaconsfield
+    alias: Disraeli, B. (Benjamin), Earl of Beaconsfield
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '1292'
+    url: http://www.gutenberg.org/2009/agents/1292
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
+description: "Vivian Grey is Benjamin Disraeli's first novel, published by Henry Colburn\
+  \ in 1826. Originally published anonymously, ostensibly by a so-called \"man of\
+  \ fashion,\" part 1 caused a considerable sensation in London society. Contemporary\
+  \ reviewers, suspicious of the numerous solecisms contained within the text, eventually\
+  \ identified the young Disraeli (who did not move in high society) as the author.\
+  \ Disraeli continued the tale in a second volume, also of 1826, and three subsequent\
+  \ volumes in 1827. The form in which Vivian Grey is published now is the revised\
+  \ 1853 edition, which was severely expurgated and, according to critic Wendy Burton,\
+  \ lost much of the charm and freshness of the 1826 edition. The book is a frequent\
+  \ touchstone for discussions of Disraeli's political and literary career.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9840'
+  wikidata: Q7937713
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Politicians -- Fiction'
+- !lcsh 'British -- Europe -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Political fiction'
+- !lcc 'PR'
+- GITenberg
+title: Vivian Grey
+url: http://www.gutenberg.org/ebooks/9840
+wikipedia:
+- https://en.wikipedia.org/wiki/Vivian_Grey
