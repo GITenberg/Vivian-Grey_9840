@@ -1,10 +1,8 @@
 _repo: Vivian-Grey_9840
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 9840/9840-h/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Disraeli, Benjamin, Earl of Beaconsfield
@@ -25,6 +23,8 @@ description: "Vivian Grey is Benjamin Disraeli's first novel, published by Henry
   \ lost much of the charm and freshness of the 1826 edition. The book is a frequent\
   \ touchstone for discussions of Disraeli's political and literary career.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9840#Vivian-Grey
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
